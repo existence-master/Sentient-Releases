@@ -20,7 +20,7 @@ The philosophy behind Sentient is roughly described [here](https://docs.google.c
 
 ## Progress 
 
-- MVP Version 1 Released. Check out our [website](https;//existence.technology/sentient) to download it today.
+- MVP Version 1 Released. Check out our [website](https://existence.technology/sentient) to download it today.
 - Major updates with self-managed memory, agentic integrations and model improvements are coming soon. 
 
 ## Become an early adopter
