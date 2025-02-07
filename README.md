@@ -1,35 +1,51 @@
-![Sentient Github Header](/github/assets/header.png)  
+![Frame 1](https://github.com/user-attachments/assets/985a1e5a-4954-43ec-b310-e69cce8ecbe9)
 
-The official repo of Sentient. Sentient is a fully private, decentralized and interactive AI companion. Sentient is powered by graph memory and agentic integrations allowing it to learn all about you and use that memory to perform actions for you.
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.existence.technology/sentient"><img src="https://img.shields.io/badge/Website-Click%20Here-blue" alt="Website"></a>
+  <a href="https://beneficial-billboard-012.notion.site/Sentient-1916d7df083c809c929bf012b33594fc"><img src="https://img.shields.io/badge/Docs-Read%20Now-green" alt="Docs"></a>
+  <a href="https://existence-sentient.vercel.app/download"><img src="https://img.shields.io/badge/Download-Get%20It-red" alt="Download"></a>
+  <a href="https://existence-sentient.vercel.app/privacy"><img src="https://img.shields.io/badge/Privacy%20Policy-View%20Here-purple" alt="Privacy Policy"></a>
+  <a href="https://existence-sentient.vercel.app/terms"><img src="https://img.shields.io/badge/Terms-Read%20Here-orange" alt="Terms"></a>
+</div>
+
+
+Welcome to **Sentient**, your fully personalized, privacy-first AI designed to integrate seamlessly into your daily life. Sentient is more than just a chatbot—it's a context-aware, agentic AI that understands you, your preferences, and your needs, all while ensuring complete data privacy by running entirely on your local device.
+
+This is the **official** releases repository for Sentient that we use to release the latest version of the app to our users.
 
 ## Philosophy   
 
-The philosophy behind Sentient is roughly described [here](https://docs.google.com/document/d/1vbCGAbh9f8vXfPup_Z7cW__gnOLdRhEtHKyoIxJD8is/edit?usp=sharing). This document is refined for ease of read but the main idea remains the same.
+With Sentient, we aim to offer a human-like interaction experience, learning from your behaviors, preferences, and interactions over time. With robust integrations into popular tools like Google Calendar, Gmail, and Google Slides, Sentient can perform complex tasks on your behalf. Whether it's scheduling meetings, drafting emails, or creating presentations, Sentient handles it all with precision and efficiency.
 
 ## Core Features
 
-- **Sentience** : The philosophy behind Sentient sees a world where AI helps humans reach their existential limits. After that, AI can take on as the new most advanced species. The philosophy implies that Ai should not be treated as a slave or a mere tool. A new companion species would be interesting. Sentience won’t be achieved by generative AI nor by interactive AI. It will take some time before we get there. But in this process of helping us reach our limits, AI is bound to be sentient. So why not take it step by step starting with the transition to interactive AI. Sentient will always have a differing personality within the limits of the constitution it is trained on
-  
-- **Personal Knowledge Base** : As reasoned in the context of Sentient, almost everything can be done more accurately and efficiently if AI knows about us personally. This does not make us puppets, but gives us a yardstick to measure. If you can’t measure something, you can’t improve it. Also aside from the utility part, the AI can learn so much about humans. This in turn supports AI safety policies. Think of empathy. Your empathy towards someone is in linear relationship with your knowledge of that person. And moreover, who doesn’t love a friend who sticks? So Sentient uses this reasoning and merges personal knowledge base with vast computational and cognitive faculties
-  
-- **Constitutional AI** : Constitutional AI shapes the outputs of AI systems according to a set of principles, with the goal of achieving AI safety. The context when refined more philosophically can serve as the constitution for Sentient. One argument against this is that we should allow our ‘new species’ to find its purpose on its own. But given the amount of vast risk if things go south submerges this argument considerably. Think of Ultron from Marvel. It was a constitutional AI but still, it reasoned its way to mass destruction. Considering this, giving our AI a purpose aligned with existence of humans and existence as such seems the right thing to do. Taking us to our limits means self improvement achieved through our new companion. AI can help us break bad habits and build good ones and habits are just the start. Don’t we all need that constant companion who motivates us?
+- **Fully Local Data and Inference**: All your data stays on your device. Sentient performs AI inference locally, ensuring your privacy is never compromised.
+- **Personal Context**: Integrate your personality test results and social media profiles to give Sentient deeper insights into your preferences and behaviors.
+- **Agentic Abilities**: Sentient can interact with GSuite tools to automate tasks such as creating calendar events, sending emails, drafting documents, and more.
+- **Memories**: Sentient remembers important facts about you, using them to tailor responses and provide a truly personalized experience.
+- **Internet Search**: Need extra information? Sentient can search the web to provide comprehensive, up-to-date responses.
 
-- **Automation** : Giving access to our personal life also implies automation. With Sentient, automation with apps you already use can be done seamlessly. You can have the choice to do any actions autonomously or with your permission. You can decide what data to give access to and what not. As the AI has access to your personal life, it can already know what things to do and what not. This is true automation without any prompting from your side. No need of prompt engineering
+## Upcoming Features 
 
-- **Security** : The problem of security is kind of hard to solve. But we can look into Zero Knowledge Proofs or ZKPs in the blockchain domain. The concept is simple. We train the model on data which is allowed to be seen and for the rest of the users, no one except the AI can access the data. This is not easy, but if solved can banish the age old fear of security breach. We need to prove to the world that this works to gain their confidence in safe sharing of the data. Considering everything, this is the most important feature of Sentient. Other than that, users can always decide whether to turn off the agent or which data they provide. Even though they should share max data with the agent to improve the results, it's totally optional. Some might view Sentient as solely a tool for business growth, some might enrich their personal lives, some both
-
-## Progress 
-
-- MVP Version 1 Released. Check out our [website](https://existence.technology/sentient) to download it today.
-- Major updates with self-managed memory, agentic integrations and model improvements are coming soon. 
+- **Enhanced Stability**: Improvements to model inference for more structured outputs, better error handling, and increased reliability.
+- **Dual Memory System**: A combination of short-term memory (for reminders and temporary data) and long-term memory (persisted in a knowledge graph).
+- **Intent Recognition**: Sentient will autonomously act on triggers from short-term memory.
+- **Tool-Specific UI**: Integrated UIs for tools like Gmail, allowing inbox management directly within Sentient.
+- **Advanced Internet Search**: More comprehensive search results, including images, citations, and direct source links.
+- **Expanded Tool Integrations**: Based on user requests, upcoming integrations include Notion, LinkedIn, GitHub, and WhatsApp.
+- **Voice Interaction**: Engage with Sentient using natural voice commands.
+- **Browser Control**: Sentient will interact with websites to perform tasks on your behalf.
+- **OS-Level Integration**: Share your screen to provide real-time context, enhancing Sentient's assistance capabilities.
+- **Customizable Agentic Actions**: Create your own tool integrations and automate personalized workflows.
 
 ## Become an early adopter
 
-Join the Sentient Early Adopters WhatsApp group, we will love to work with your feedback [here.](https://chat.whatsapp.com/IOHxuf2W8cKEuyZrMo8DOJ)
+Join the Sentient Early Adopters WhatsApp group [here.](https://chat.whatsapp.com/IOHxuf2W8cKEuyZrMo8DOJ)
+Your feedback matters to us and helps shape the product into something the people want. This group is the perfect place to share your suggestions, feedbacks, bugs etc.
 
 ## Team
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section. -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
@@ -41,7 +57,7 @@ Join the Sentient Early Adopters WhatsApp group, we will love to work with your 
          <br />
          <sub>
            <b>
-             itsskofficial
+             itsskofficial - CSO (Chief Sigma Officer)
            </b>
          </sub>
        </a>
@@ -81,6 +97,27 @@ Join the Sentient Early Adopters WhatsApp group, we will love to work with your 
        </a>
      </td> 
       <td align="center">
+       <a href="https://github.com/Shubham-Badhe-14">
+         <img src="https://avatars.githubusercontent.com/u/153096382?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+           <b>
+             Shubham-Badhe-14
+           </b>
+         </sub>
+       </a>
+       <br />
+       <a title="Operations Manager">
+         📢
+       </a>
+     </td>  
+  </tr>
+</table>
+
+## Past Contributors
+<table>
+  <tr>
+      <td align="center">
        <a href="https://github.com/varaddeshpande15">
          <img src="https://avatars.githubusercontent.com/u/111638914?v=4" width="100px;" alt=""/>
          <br />
@@ -93,6 +130,21 @@ Join the Sentient Early Adopters WhatsApp group, we will love to work with your 
        <br />
        <a title="Code and Outreach">
          💻📢
+       </a>
+     </td>  
+    <td align="center">
+       <a href="https://github.com/ojaswini1410">
+         <img src="https://avatars.githubusercontent.com/u/113436626?v=4" width="100px;" alt=""/>
+         <br />
+         <sub>
+           <b>
+             ojaswini1410
+           </b>
+         </sub>
+       </a>
+       <br />
+       <a title="Design">
+         🎨
        </a>
      </td>  
   </tr>
